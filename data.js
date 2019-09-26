@@ -8,6 +8,14 @@ const emojiItems = [
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
+  title: "Dinosaurs",
+  emojiImgs: "🦖⛰️😂",
+  genres: ["Comedy", "Family", "Fantasy "],
+  itemLink: "https://www.imdb.com/title/tt0101081/",
+  type: "TV",
+  year: 1991
+},
+    {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
         genres: ["action", "drama", "fantasy"],
